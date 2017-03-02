@@ -3,3 +3,4 @@
 版本回退
 暂存区
 创建分支dev
+git add all
