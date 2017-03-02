@@ -6,3 +6,4 @@
 git add all
 这是一个branch2冲突
 这是一个branch1冲突
+用普通合并模式--no-ff
