@@ -5,3 +5,4 @@
 创建分支dev
 git add all
 这是一个branch2冲突
+这是一个branch1冲突
